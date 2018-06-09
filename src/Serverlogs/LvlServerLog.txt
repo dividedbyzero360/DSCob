@@ -1,0 +1,6 @@
+Jun 08, 2018 9:42:10 PM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR22087 by lvl1111
+Jun 09, 2018 1:19:49 AM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR25908 by lvl1111
+Jun 09, 2018 1:20:44 AM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR24104 by lvl1111

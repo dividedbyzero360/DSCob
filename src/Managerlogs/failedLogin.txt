@@ -1,0 +1,2 @@
+Jun 09, 2018 1:22:24 AM ClientPackage.ManagerClient main
+INFO: Failed login attempt by Mtl111 as it does not match the format of a valid Manager ID

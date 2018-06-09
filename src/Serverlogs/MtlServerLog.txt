@@ -1,0 +1,14 @@
+Jun 08, 2018 6:45:13 PM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR23864 by mtl1111
+Jun 08, 2018 9:30:07 PM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR12366 by mtl1111
+Jun 08, 2018 9:42:10 PM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR28095 by mtl1111
+Jun 09, 2018 1:19:49 AM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR23761 by mtl1111
+Jun 09, 2018 1:20:44 AM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR26791 by mtl1111
+Jun 09, 2018 1:22:56 AM ServerPackage.ServerImplementation createTRecord
+INFO: Teacher record successfully inserted. The record id of the new record is TR24777 by MTL1111
+Jun 09, 2018 1:23:02 AM ServerPackage.ServerImplementation getRecordCounts
+INFO: Record Count with Server Names : MTL 1 DDO 0 LVL 0 by MTL1111

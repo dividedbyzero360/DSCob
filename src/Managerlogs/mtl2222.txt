@@ -1,0 +1,2 @@
+Jun 09, 2018 1:23:48 AM ClientPackage.ManagerClient main
+INFO: MTL 0 DDO 0 LVL 0

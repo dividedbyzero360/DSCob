@@ -1,0 +1,4 @@
+Jun 09, 2018 1:22:56 AM ClientPackage.ManagerClient main
+INFO: Teacher record successfully inserted. The record id of the new record is TR24777
+Jun 09, 2018 1:23:02 AM ClientPackage.ManagerClient main
+INFO: MTL 1 DDO 0 LVL 0

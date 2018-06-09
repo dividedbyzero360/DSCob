@@ -1,0 +1,12 @@
+module ServerOperationApp
+{
+interface ServerOperationIDL
+{
+typedef sequence<string> stringSeq;
+oneway void shutdown();
+string createSRecord (in string managerID,in string firstName,in string lastName,in stringSeq coursesRegistered,in string status,in string statusDate) ;
+string createTRecord (in string managerID,in string firstName,in string lastName,in string address,in string phone,in string specialization,in string location) ;
+string editRecord (in string managerID,in string recordID,in string fieldName,in string newValue);
+string getRecordCounts (in string managerID);
+};
+};
