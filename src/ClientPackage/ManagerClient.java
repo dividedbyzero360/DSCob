@@ -235,7 +235,7 @@ public class ManagerClient {
 		return p.test(s);
 	}
 
-	/*public ServerOperationIDL getServerInstance(String managerID,NamingContextExt ncRef) {
+	public ServerOperationIDL getServerInstance(String managerID,NamingContextExt ncRef) {
 		String managerAcroynm = managerID.substring(0, 3).toLowerCase();
 		ServerOperationIDL operations = null;
 		String lookUpString = "";
@@ -256,5 +256,5 @@ public class ManagerClient {
 			throw new RuntimeException("Error in binding");
 		}
 		return operations;
-	}*/
+	}
 }

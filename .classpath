@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+>>>>>>> f796c3cb0dc50b4649f5cff78f06ad9c26898f60
 	<classpathentry kind="output" path="bin"/>
 </classpath>
